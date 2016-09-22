@@ -1,13 +1,10 @@
 #!/bin/bash
 
+source lib/textmodes.sh
 source lib/text.sh
 
-# Normal
-echo "${fox}"
-echo "${sym}"
-echo
-echo 'Commonly confused characters'
-echo "${char}"
+echo -e "${bold}${fox}${norm}"
+echo -e "${bold}${sym}${norm}"
 
 # Set everything back to normal, just in case.
 echo -e "${norm}"

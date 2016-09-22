@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 source lib/textmodes.sh
 source lib/colors.sh
