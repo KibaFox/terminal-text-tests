@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 source lib/textmodes.sh
 source lib/text.sh
