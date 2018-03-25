@@ -1,0 +1,11 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+Emacs enriched text
+
+
+<bold>bold</bold>
+
+<italic>italics</italic>
+
+<underline>underline</underline>
